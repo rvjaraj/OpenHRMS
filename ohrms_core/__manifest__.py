@@ -66,7 +66,7 @@
         ],
         'web.assets_qweb': [
             'ohrms_core/static/src/xml/link_view.xml',
-            'ohrms_core/static/templates/side_bar.xml',
+            # 'ohrms_core/static/templates/side_bar.xml',
         ],
     },
     'images': ['static/description/banner.gif'],
