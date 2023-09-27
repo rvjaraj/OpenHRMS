@@ -419,7 +419,6 @@ group by hr_employee.department_id,hr_department.name""")
             }
             month_attrition.append(vals)
 
-
         return month_attrition
 
 
